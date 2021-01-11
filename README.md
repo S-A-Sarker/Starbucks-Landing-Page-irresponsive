@@ -1,4 +1,6 @@
 # Starbucks-Landing-Page-irresponsive
-rresponsive
+index.html
+
+irresponsive
 startbucks landing page 
 build with javascript
